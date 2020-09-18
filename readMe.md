@@ -1,6 +1,6 @@
 # VidCall
 ---
-![Screenshot](https://github.com/karandevtyagi/Vidcall/tree/master/public/demoimage.PNG) 
+[Screenshot](https://github.com/karandevtyagi/Vidcall/tree/master/public/demoimage.PNG) 
 ---
 
 ### MAIN TECH STACK USED
